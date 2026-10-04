@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 ## 👨‍💻 About Me
 
 - 🏫 Studying at **Sinhgad Institute of Technology**
-- 🌱 Currently learning **Python, Git & GitHub**
-- 💻 Interested in **automotive + EV+ web development**
+- 🌱 Currently learning **Python, Git ,GitHub & web development**
+- 💻 Interested in **automotive + EV**
 - 🎯 Goal: **Build useful projects and improve my coding skills**
 - 🤝 Open to learning and collaborating with other developers
 
