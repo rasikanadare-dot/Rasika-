@@ -1,5 +1,5 @@
-# Rasika-
-# Hi there! 👋 I'm Piyush Mandhare
+# Rasikanadare-dot
+# Hi there! 👋 I'm Rasika Nadre 
 
 ### 🎓 Engineering Student | Aspiring Developer
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 - 🏫 Studying at **Sinhgad Institute of Technology**
 - 🌱 Currently learning **Python, Git & GitHub**
-- 💻 Interested in **Software Development + AI Integration**
+- 💻 Interested in **automotive + EV+ web development**
 - 🎯 Goal: **Build useful projects and improve my coding skills**
 - 🤝 Open to learning and collaborating with other developers
 
